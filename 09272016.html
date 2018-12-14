@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ENGAGE</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <link rel="icon" type="image/png" href="./img/fav_us.png">
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" type="text/css" href="font/MyFontsWebfontsKit.css"/>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+
+    <script type="text/javascript" src="js/leaflet-control-button.js"></script>
+    <link rel="stylesheet" href="js/leaflet-control-button.css" />
+
+    <script src="js/leaflet-geodesic.js"></script>
+
+    <script type="text/javascript" src="09272016.js"></script>
+    <link rel="stylesheet" href="index.css" />
+	
+</head>
+<body>
+    <div class="row" id="categorypicker">
+        <div class="col-sm-1 center navmenu">&nbsp;</div>
+        <div class="col-sm-1 center navmenu">&nbsp;</div>
+        <div class="col-sm-1 center navmenu"><img class="logo" src="./img/us.png"></img></div>
+        <div class="col-sm-1 center navmenu" data-category="sales">Sales<br/><span class="swatch swatch-sales"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="marketing">Marketing<br/><span class="swatch swatch-marketing"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="education">Education<br/><span class="swatch swatch-education"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="proctor">Proctor<br/><span class="swatch swatch-proctor"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="prospect">Prospect<br/><span class="swatch swatch-prospect"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="rd">R&amp;D<br/><span class="swatch swatch-rd"></span></div>
+        <div class="col-sm-1 center navmenu" data-category="executive">Executive<br/><span class="swatch swatch-executive"></span></div>
+        <div class="col-sm-1 center navmenu">&nbsp;</div>
+        <div class="col-sm-1 center navmenu">&nbsp;</div>
+    </div>
+
+    <div class="categoryinfo" data-category="sales">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="marketing">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="education">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="proctor">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="prospect">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="rd">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+    <div class="categoryinfo" data-category="executive">
+        <label><input type="checkbox" checked /> Show on map</label>
+        <br/>
+        <ul></ul>
+    </div>
+
+    <div id="map"></div>
+    
+    <div id="calendar">
+        Select a date:
+        <br/>
+        <select></select>
+    </div>
+
+    <div id="layerpicker">
+        <label><input type="checkbox" value="connections" /> Connections</label><img class="legend-right" src="./img/connections.png" /><br/>
+        <label><input type="checkbox" value="hospitals" /> Hospitals</label><img class="legend-right" src="./img/hospitals.png" />
+        <label><input type="checkbox" value="obesity" /> US Obesity Rate (2014)</label><img class="legend-bottom" src="./img/obesity.png" />
+        <br />
+        <label><input type="radio" name="basemap" value="darkmatter" checked /> Basemap: Dark</label><br/>
+        <label><input type="radio" name="basemap" value="positron" /> Basemap: Light</label><br/>
+    </div>
+</body>
+</html>

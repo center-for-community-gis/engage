@@ -1,0 +1,142 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3243620, 2016-07-04T11:31:55-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: RiftSoft-BoldItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-bold-italic/
+ * 
+ * Webfont: RiftSoft-Bold by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-bold/
+ * 
+ * Webfont: RiftSoft-MediumItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-medium-italic/
+ * 
+ * Webfont: RiftSoft-Italic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-italic/
+ * 
+ * Webfont: RiftSoft-LightItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-light-italic/
+ * 
+ * Webfont: RiftSoft-DemiItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-demi-italic/
+ * 
+ * Webfont: RiftSoft-Light by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-light/
+ * 
+ * Webfont: RiftSoft-Demi by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-demi/
+ * 
+ * Webfont: RiftSoft-Regular by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-regular/
+ * 
+ * Webfont: RiftSoft-Medium by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/soft-medium/
+ * 
+ * Webfont: Rift-BoldItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/bold-italic/
+ * 
+ * Webfont: Rift-Italic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/italic/
+ * 
+ * Webfont: Rift-DemiItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/demi-italic/
+ * 
+ * Webfont: Rift-LightItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/light-italic/
+ * 
+ * Webfont: Rift-MediumItalic by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/medium-italic/
+ * 
+ * Webfont: Rift-Bold by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/bold/
+ * 
+ * Webfont: Rift-Demi by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/demi/
+ * 
+ * Webfont: Rift-Light by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/light/
+ * 
+ * Webfont: Rift-Medium by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/medium/
+ * 
+ * Webfont: Rift-Regular by Fort Foundry
+ * URL: http://www.myfonts.com/fonts/fort-foundry/rift/regular/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3243620
+ * Licensed pageviews: 10,000
+ * Webfonts copyright: Copyright &#x00A9; 2016 by Mattox Shuler. All rights reserved.
+ * 
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/317e64");
+
+  
+@font-face {font-family: 'RiftSoft-BoldItalic';src: url('webfonts/317E64_0_0.eot');src: url('webfonts/317E64_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_0_0.woff2') format('woff2'),url('webfonts/317E64_0_0.woff') format('woff'),url('webfonts/317E64_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Bold';src: url('webfonts/317E64_1_0.eot');src: url('webfonts/317E64_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_1_0.woff2') format('woff2'),url('webfonts/317E64_1_0.woff') format('woff'),url('webfonts/317E64_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-MediumItalic';src: url('webfonts/317E64_2_0.eot');src: url('webfonts/317E64_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_2_0.woff2') format('woff2'),url('webfonts/317E64_2_0.woff') format('woff'),url('webfonts/317E64_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Italic';src: url('webfonts/317E64_3_0.eot');src: url('webfonts/317E64_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_3_0.woff2') format('woff2'),url('webfonts/317E64_3_0.woff') format('woff'),url('webfonts/317E64_3_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-LightItalic';src: url('webfonts/317E64_4_0.eot');src: url('webfonts/317E64_4_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_4_0.woff2') format('woff2'),url('webfonts/317E64_4_0.woff') format('woff'),url('webfonts/317E64_4_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-DemiItalic';src: url('webfonts/317E64_5_0.eot');src: url('webfonts/317E64_5_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_5_0.woff2') format('woff2'),url('webfonts/317E64_5_0.woff') format('woff'),url('webfonts/317E64_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Light';src: url('webfonts/317E64_6_0.eot');src: url('webfonts/317E64_6_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_6_0.woff2') format('woff2'),url('webfonts/317E64_6_0.woff') format('woff'),url('webfonts/317E64_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Demi';src: url('webfonts/317E64_7_0.eot');src: url('webfonts/317E64_7_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_7_0.woff2') format('woff2'),url('webfonts/317E64_7_0.woff') format('woff'),url('webfonts/317E64_7_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Regular';src: url('webfonts/317E64_8_0.eot');src: url('webfonts/317E64_8_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_8_0.woff2') format('woff2'),url('webfonts/317E64_8_0.woff') format('woff'),url('webfonts/317E64_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'RiftSoft-Medium';src: url('webfonts/317E64_9_0.eot');src: url('webfonts/317E64_9_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_9_0.woff2') format('woff2'),url('webfonts/317E64_9_0.woff') format('woff'),url('webfonts/317E64_9_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-BoldItalic';src: url('webfonts/317E64_A_0.eot');src: url('webfonts/317E64_A_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_A_0.woff2') format('woff2'),url('webfonts/317E64_A_0.woff') format('woff'),url('webfonts/317E64_A_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Italic';src: url('webfonts/317E64_B_0.eot');src: url('webfonts/317E64_B_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_B_0.woff2') format('woff2'),url('webfonts/317E64_B_0.woff') format('woff'),url('webfonts/317E64_B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-DemiItalic';src: url('webfonts/317E64_C_0.eot');src: url('webfonts/317E64_C_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_C_0.woff2') format('woff2'),url('webfonts/317E64_C_0.woff') format('woff'),url('webfonts/317E64_C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-LightItalic';src: url('webfonts/317E64_D_0.eot');src: url('webfonts/317E64_D_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_D_0.woff2') format('woff2'),url('webfonts/317E64_D_0.woff') format('woff'),url('webfonts/317E64_D_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-MediumItalic';src: url('webfonts/317E64_E_0.eot');src: url('webfonts/317E64_E_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_E_0.woff2') format('woff2'),url('webfonts/317E64_E_0.woff') format('woff'),url('webfonts/317E64_E_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Bold';src: url('webfonts/317E64_F_0.eot');src: url('webfonts/317E64_F_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_F_0.woff2') format('woff2'),url('webfonts/317E64_F_0.woff') format('woff'),url('webfonts/317E64_F_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Demi';src: url('webfonts/317E64_10_0.eot');src: url('webfonts/317E64_10_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_10_0.woff2') format('woff2'),url('webfonts/317E64_10_0.woff') format('woff'),url('webfonts/317E64_10_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Light';src: url('webfonts/317E64_11_0.eot');src: url('webfonts/317E64_11_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_11_0.woff2') format('woff2'),url('webfonts/317E64_11_0.woff') format('woff'),url('webfonts/317E64_11_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Medium';src: url('webfonts/317E64_12_0.eot');src: url('webfonts/317E64_12_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_12_0.woff2') format('woff2'),url('webfonts/317E64_12_0.woff') format('woff'),url('webfonts/317E64_12_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'Rift-Regular';src: url('webfonts/317E64_13_0.eot');src: url('webfonts/317E64_13_0.eot?#iefix') format('embedded-opentype'),url('webfonts/317E64_13_0.woff2') format('woff2'),url('webfonts/317E64_13_0.woff') format('woff'),url('webfonts/317E64_13_0.ttf') format('truetype');}
+ 

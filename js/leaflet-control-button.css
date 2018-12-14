@@ -1,0 +1,12 @@
+.leaflet-control-button {
+    color: #444 !important;
+}
+
+.leaflet-control-button {
+    border: 2px solid rgba(0,0,0,0.2);
+    background-clip: padding-box;
+    font-weight: bold;
+    background-color:white;
+    cursor:pointer;
+    border-radius:5px;
+}
